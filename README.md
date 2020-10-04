@@ -7,3 +7,7 @@ We had an additional 300 images which we kept aside to use for testing and valid
 
 When a CNN model was trained from the scratch the accuracy achieved was very less ~ 60%. Leveraging transfer learning using ResNet model trained on imagenet data accuracy
 of 95% was achieved without any finetuning. Accuracy improved to more than 96% with addition and subsequent finetuning of just 2 custom dense layers after the ResNet base layer.
+
+The data can be downloaded from the below link
+
+https://drive.google.com/file/d/10KIy3-HgFLNE3SbkACl5StoPr00TfK4l/view?usp=sharing
